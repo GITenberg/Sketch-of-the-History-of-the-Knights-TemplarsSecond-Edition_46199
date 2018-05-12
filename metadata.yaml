@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '43654'
     url: http://www.gutenberg.org/2009/agents/43654
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46199#Sketch-of-the-History-of-the-Knights-TemplarsSecond-Edition
 gutenberg_issued: '2014-07-05'
 gutenberg_type: Text
 identifiers:
